@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lamen</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <h1 id='logo'>Lamenkazu</h1>
+    </header>
+
+    <main class='container'>
+        <section id='bio'>
+            <h2 class='sr-only'>Biografia</h2>
+
+            <div class="card">
+                <h3>
+                    <span>Filósofo</span>
+                    <img class='icon' src="./img/iconefilosofia.png" alt="Icone Simbolo da Filosofia">
+                </h3>
+                <p>Bacharelando em Filosofia</p>
+                <button class='botaocard' onclick="abrirFilosofia()">Ler mais</button>
+            </div>
+
+            <div class="card">
+                <h3>
+                    <span>Programador</span>
+                    <img class='icon' src="./img/iconeprogramação.png" alt="Icone Simbolo de Programação">
+                </h3>
+                <p>Iniciante Na Arte de Codar</p>
+                <button class='botaocard' onclick="abrirProgramação()">Ler mais</button>
+            </div>
+
+            <div class="card">
+                <h3>
+                    <span>Musico</span>
+                    <img src="./img/iconemusica.png" alt="Icone Simbolos Musicais" class="icon">
+                </h3>
+                <p>Produtor Compositor Amador</p>
+                <button class='botaocard' onclick="abrirMusica()">Ler mais</button>
+            </div>
+
+        </section>
+
+        <section id='projetos'>
+            <h2 class='sr-only'>Projetos</h2>
+
+            <table id='tabela'>
+                <thead>
+                    <th>Projeto</th>
+                    <th>Tipo</th>
+                    <th>Acesso</th>
+                    <th></th>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>quero mais que te beijar de novo</td>
+                        <td>Musica</td>
+                        <td>
+                            <a onclick="toca0()" href="#" class="button new">
+                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
+                            </a>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>se fosse tão fácil assim.inst</td>
+                        <td>Musica</td>
+                        <td>
+                            <a onclick="toca1()" href="#" class="button new">
+                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
+                            </a>
+                        </td>
+                        <td></td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </section>
+
+        <section id='mainPlayer'>
+            <div class="player">
+                <h4 class='sr-only'>Lamenlist</h4>
+                <div class="cardPlayer">
+                    <div class="card-image">
+                    </div>
+                    <div class="card-content">
+                        <h5>quero mais que te beijar de novo</h5>
+                        <p class='artist'>Lamenkazú</p>
+                        <audio autoplay controls src=""></audio>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <div class="modal-overlay filosofia">
+        <div class="modal">
+            <div class="input-group actions">
+                <a href="#" class="button cancel" onclick="fecharFilosofia()">X</a>
+            </div>
+            <div class='inside'>
+                <h2>Filósofo</h2>
+                <p>
+                    Graduando do 4ºPeriodo de Filosofia pela <strong>UFMG</strong>, meu amor com
+                    certeza são a
+                    <strong>Lógica, Filosofia da Linguagem e a Teoria do Conhecimento.</strong>
+
+                    <br><br>Não há nada mais lindo do que o
+                    saber e saber afirmar o porquê sabe. Nada de ladainha <strong>"filosofista"</strong>,
+                    é apenas muito bom ser capacitado a ser um pesquisador e identificar o raciocínio
+                    lógico dos grandes filósofos. <br><br>
+
+                    Lógica <strong>nada diferente </strong>da aplicada na programação. Lógica como Lógica em todos os
+                    lugares,
+                    bela em sua <strong> aplicação</strong> em todas as formas.<br><br>
+
+                    A racionalidade é um <strong>mecanismo social</strong>, e apenas somos lógicos interagindo uns com
+                    os outros.
+                    Meu desejo é criar as melhores <strong>funcionalidades</strong> racionais para a melhor socialização
+                    entre as pessoas.
+
+                    <br><br>Meu maior sonho: uma <strong>linguagem</strong> perfeita, capaz de
+                    transmitir todos os nossos pensamentos sem falhas.
+                    Que seja <strong>não-linear, </strong>capaz de ser entendida independente do tempo, <strong>ou
+                        melhor...</strong> de nos fazer
+                    <strong>interpretar o tempo</strong> de uma forma diferente; de forma a nos fazer interpretar nossa
+                    própria realidade não linearmente,
+                    como em <strong>A Chegada (2016). </strong>
+                    Que seja possível construir histórias que sejam completas em si mesmas. Como a comunicação por luz
+                    entre os marcianos do livro
+                    <strong>Expedição ao Fim do Mundo</strong>, de Waldir de Luna Carneiro
+                </p>
+                <img src="./img/pngwing.com.png" alt="Imagem Lolograma do filme A Chegada" class='img'>
+                <img src="./img/expedição.jpg.opdownload" alt="Imagem Capa do Livro Expedição ao Fim do Mundo"
+                    class='img2'>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div class="modal-overlay programação">
+        <div class="modal">
+            <div class="input-group actions">
+                <a href="#" class="button cancel" onclick="fecharProgramação()">X</a>
+            </div>
+            <div class='inside'>
+
+                <h2>Programador</h2>
+                <p>
+                    Conheci a Programação por acaso, quase sem querer. Selecionei o Curso errado para o
+                    <strong>CEFET-MG</strong>
+                    e acabei cursando 2 anos de Técnico de Informática na instituição. Não me arrependi,
+                    foi onde consegui conhecer a <strong>Lógica</strong> e de fato me apaixonei a primeira vista.
+
+                    <br><br>Infelizmente não me formei na instituição, minha vida deu um break-time, mas estou
+                    <strong>atualmente retornando</strong>
+                    ao mundo dos códigos, dando total atenção à Javascript, mas futuramente pretendo estudar outras
+                    linguagens.
+                    <br><br>
+                    Se <strong>Deus</strong> quiser em breve estarei em outra ótima instituição e me esforçarei pra me
+                    formar dessa vez.
+
+                </p>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="modal-overlay musica">
+        <div class="modal">
+            <div class="input-group actions">
+                <a href="#" class="button cancel" onclick="fecharMusica()">X</a>
+            </div>
+            <div class='inside'>
+                <h2>Musico</h2>
+                <p>
+                    Instrumentista desde os <strong>8 anos</strong>, basicamente forçado a receber um violão de natal.
+                    Sei tocar
+                    <strong>Baixo, Guitarra, Ukulele, Violão</strong>, arranho instrumentos de corda sem arco em geral.
+
+                    <br><br>Formado nos 2 módulos iniciais da ESMU (Escola de Musica) da <strong>UEMG</strong>.
+                    4 anos de teoria musical na infância.
+                    Larguei de estudar música aos 13 anos, posteriormente aos 17 decidi começar a <strong>produzir
+                        músicas</strong>
+                    utilizando uma DAW no computador.
+                    Desde então sou produtor amador, atualmente a 4 anos estudando essa nova arte.
+                    <br><br>
+
+                    Musica é extremamente importante na minha vida e com certeza não sei onde eu estaria
+                    sem ela. Minha percepção de mundo é constantemente alterada por elas. Musicas instrumentais são um
+                    grande
+                    amor pra mim, tocam meu espírito com muita facilidade.<br><br>
+
+                    Futuramente iniciarei uma venda de Beats autorais pra ouvir meus sons nas vozes de outras pessoas
+                    <br><br>
+
+                    Você pode encontrar algumas das minhas músicas <strong>aqui nesse site</strong> e acompanhar um
+                    pouco do meu trabalho
+                    <i>~Porém isso não significa que as músicas são boas~</i>
+                </p>
+            </div>
+
+
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy;Lamenkazu</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="player.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
