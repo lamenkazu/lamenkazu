@@ -190,9 +190,13 @@ button{
 #tabela{
     width: 100%;
     border-spacing: 0 0.5rem;
-    color:darkslategray;
+    color:antiquewhite;
     text-align: left;
     align-items: right;
+}
+
+tbody{
+    color:rgb(0, 63, 63);
 }
 
 tr{
@@ -215,7 +219,7 @@ table tbody tr td:last-child{
 }
 
 table th{
-    background:goldenrod;
+    background:rgb(1, 146, 139);
     font-weight: normal;
     padding: 1rem 2rem;
     text-align: center;
@@ -307,7 +311,7 @@ table tbody tr:hover{
 #mainPlayer{
     position:absolute;
     bottom:0rem;
-    right: -22rem;
+    right: -30%;
     top:30%;
     align-items: center;
     justify-content: center;
@@ -343,7 +347,7 @@ h5{
 .artist{
     color:goldenrod;
     font-size: 11px;
-    margin-left: 69%;
+    margin-left: 4%;
 }
 
 .card-image{
@@ -406,4 +410,3 @@ footer{
     }
 
 }
-

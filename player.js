@@ -5,15 +5,29 @@ window.player = {
     audio: document.querySelector('audio'),
     audioList: audios,
     audioAtual: {},
-    start(x){
-        this.audioAtual = this.audioList[x]
+    tocandoAgora: 0,
+    start(){
+        this.atualiza()        
+        this.audio.onended = () => this.next()
+    },
+    next(){
+        this.tocandoAgora++
+        if(this.tocandoAgora == this.audioList.length){
+            this.tocandoAgora = 0
+            this.atualiza()
+        }else{
+            this.atualiza()
+            this.audio.play()
+        }
+        
+    },
+    atualiza(){
+        this.audioAtual = this.audioList[this.tocandoAgora]
+
         this.capa.style.background = `url(./img/${this.audioAtual.capa})`
         this.titulo.innerHTML = this.audioAtual.titulo
         this.artista.innerHTML = this.audioAtual.artista
-        this.audio.src = `./songs/${this.audioAtual.arquivo}`
-        this.audio.addEventListener('ended', function(){
-            
-        })
+        this.audio.src = `./songs/${this.audioAtual.arquivo}`        
     },
     
 }

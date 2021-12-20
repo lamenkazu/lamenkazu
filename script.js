@@ -28,18 +28,4 @@ function fecharMusica() {
 
 }
 
-
-var start = 0
-
-function toca0(){
-    start = 0
-    player.start(start)
-}
-
-function toca1(){
-    start = 1
-    player.start(start)
-}
-
-
-window.addEventListener('load', player.start(start))
+window.addEventListener('load', player.start())
