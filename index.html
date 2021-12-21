@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lamen</title>
+    <link rel="icon" type="Imagem/png" href="./img/pngwing.com.png"/>
     <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +17,8 @@
 <body>
 
     <header>
-        <h1 id='logo'>Lamenkazu</h1>
+        <h1 class="logo">Portfólio</h1>
+        <h2 class='logo'>Lamenkazú</h2>
     </header>
 
     <main class='container'>
@@ -32,7 +34,7 @@
                 <button class='botaocard' onclick="abrirFilosofia()">Ler mais</button>
             </div>
 
-            <div class="card">
+            <div class="card" id='cardmid'>
                 <h3>
                     <span>Programador</span>
                     <img class='icon' src="./img/iconeprogramação.png" alt="Icone Simbolo de Programação">
@@ -41,7 +43,7 @@
                 <button class='botaocard' onclick="abrirProgramação()">Ler mais</button>
             </div>
 
-            <div class="card">
+            <div class="card" id='cardbot'>
                 <h3>
                     <span>Musico</span>
                     <img src="./img/iconemusica.png" alt="Icone Simbolos Musicais" class="icon">
@@ -49,120 +51,6 @@
                 <p>Produtor Compositor Amador</p>
                 <button class='botaocard' onclick="abrirMusica()">Ler mais</button>
             </div>
-
-        </section>
-
-        <section id='projetos'>
-            <h2 class='sr-only'>Projetos</h2>
-
-            <table id='tabela'>
-                <thead>
-                    <th>Projeto</th>
-                    <th>Tipo</th>
-                    <th>Acesso</th>
-                    <th>Descrição</th>
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td>quero mais que te beijar de novo</td>
-                        <td>Musica</td>
-                        <td>
-                            <a href="#" class="button new">
-                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>se fosse tão fácil assim.inst</td>
-                        <td>Musica</td>
-                        <td>
-                            <a href="#" class="button new">
-                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>O papel da linguagem na construção emocional e seu valor no
-                            desenvolvimento individual humano.
-                        </td>
-                        <td>
-                            Ensaio Filosófico
-                        </td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>A diferença de percepção temporal
-                            entre seres com tempo de vida
-                            diferentes.</td>
-                        <td>
-                            Ensaio Filosófico
-                        </td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-
-                    </tr>
-                    <tr>
-                        <td>É possível entender os filósofos de uma outra época?</td>
-                        <td>Artigo</td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>Fichamento sobre as Ideias Complexas Locke</td>
-                        <td>Esquema de Aula</td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>Sobre a possibilidade de autoconhecimento através das qualidades primárias de Locke.</td>
-                        <td>Ensaio Filosófico</td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>elativismo Linguistico: A Hipótese de
-                            Sapir-Whorf e a Mentira</td>
-                        <td>Esquema de Aula</td>
-                        <td>
-                            <a href="#" class='button new'>
-                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
-                            </a>
-                        </td>
-                        <td></td>
-                    </tr>
-
-                </tbody>
-            </table>
 
         </section>
 
@@ -179,6 +67,120 @@
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section id='projetos'>
+            <h2 class='sr-only'>Projetos</h2>
+
+            <table id='tabela'>
+                <thead>
+                    <th>Projeto</th>
+                    <th>Tipo</th>
+                    <th>Acesso</th>
+                    <th>Descrição</th>
+                </thead>
+
+                <tbody>
+                    <tr class='musica'>
+                        <td>quero mais que te beijar de novo</td>
+                        <td>Musica</td>
+                        <td>
+                            <a href="#" class="button new">
+                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
+                            </a>
+                        </td>
+                        <td>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td>se fosse tão fácil assim.inst</td>
+                        <td>Musica</td>
+                        <td>
+                            <a href="#" class="button new">
+                                <img src="./img/iconeplaypause.png" alt="Icone Play e Pause" class='icon'>
+                            </a>
+                        </td>
+                        <td>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td class='filosofia' >O papel da linguagem na construção emocional e seu valor no
+                            desenvolvimento individual humano.
+                        </td>
+                        <td class='filosofia'>
+                            Ensaio Filosófico
+                        </td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td class='filosofia'>A diferença de percepção temporal
+                            entre seres com tempo de vida
+                            diferentes.</td>
+                        <td class='filosofia'>
+                            Ensaio Filosófico
+                        </td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+
+                    </tr>
+                    <tr>
+                        <td class='filosofia'>É possível entender os filósofos de uma outra época?</td>
+                        <td class='filosofia'> Artigo</td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td class='filosofia'>Fichamento sobre as Ideias Complexas Locke</td>
+                        <td class='filosofia'>Esquema de Aula</td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td class='filosofia'>Sobre a possibilidade de autoconhecimento através das qualidades primárias de Locke.</td>
+                        <td class='filosofia'>Ensaio Filosófico</td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+                    </tr>
+
+                    <tr>
+                        <td class='filosofia'>Relativismo Linguistico: A Hipótese de
+                            Sapir-Whorf e a Mentira</td>
+                        <td class='filosofia'>Esquema de Aula</td>
+                        <td class='filosofia'>
+                            <a href="#" class='button new'>
+                                <img src="./img/pdf.png" alt="Icone Download PDF" class='icon'>
+                            </a>
+                        </td>
+                        <td class='filosofia'>🛈</td>
+                    </tr>
+
+                </tbody>
+            </table>
+
         </section>
 
     </main>

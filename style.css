@@ -48,24 +48,33 @@ header{
     text-align: center;
 }
 
-#logo{
-    color:black;
+.logo{
+    color:rgb(27, 85, 46);
     font-weight: 100;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 0;
 }
 
 
 /* Titles ============================================================= */
+h1{    
+    font-size: 4rem;
+    text-decoration: underline;
+    text-decoration-color:rgb(0, 85, 81);
+}
 h2{
     margin-top:1rem;
     margin-bottom: 0.8rem;
     color:#7e1e76;
     font-weight: normal;
+    font-size: 2rem;
+    
 }
 
 h4{
     margin-top:1rem;
     margin-bottom: 0.8rem;
-    color:#7e1e76;
+    color:#cc4acc;
     font-weight: normal;
 }
 
@@ -155,6 +164,7 @@ button{
     color: rgb(0, 77, 102);
 }
 
+
 .card h3{
     font-weight: normal;
     font-size: 1rem;
@@ -230,6 +240,10 @@ table th{
 table td{
     background:pink;
     text-align: center;
+}
+
+table td.filosofia{
+    background:paleturquoise;
 }
 /*table tbody tr{
     opacity: 0.7;
@@ -309,9 +323,9 @@ table tbody tr:hover{
 
 /* Player ============================================================= */
 #mainPlayer{
-    position:absolute;
+    position:fixed;
     bottom:0rem;
-    right: -30%;
+    right: -25rem;
     top:30%;
     align-items: center;
     justify-content: center;
