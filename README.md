@@ -1,11 +1,10 @@
 
  ![navi2 (7)](https://user-images.githubusercontent.com/23318318/188466050-39b0c261-3a26-43ca-8544-69ae1e144b7a.png)
  ### Hey! Listen! 👋
-
-
-
+ 
 
 **lamenkazu/lamenkazu** é um ✨ _prototype_ ✨de portifólio. Acesse a Página para mais informações sobre mim!
+
 Mas aqui um aperitivo:
 - 🔭 Desenvolver boas práticas de programação a nível profissional
 - 🌱 Aprendendo POO, Database, Data Structures, JAVA, C/C++.
