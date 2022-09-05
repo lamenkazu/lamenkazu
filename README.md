@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **lamenkazu/lamenkazu** é um ✨ _prototype_ ✨de portifólio
 
 - 🔭 Desenvolver boas práticas de programação a nível profissional
