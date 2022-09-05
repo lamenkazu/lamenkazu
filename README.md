@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-**lamenkazu/lamenkazu** é um ✨ _prototype_ ✨de portifólio
+**lamenkazu/lamenkazu** é um ✨ _prototype_ ✨de portifólio. Acesse a Página para mais informações sobre mim!
 
+Mas aqui um aperitivo:
 - 🔭 Desenvolver boas práticas de programação a nível profissional
 - 🌱 POO, Database, Data Structures, JAVA, C/C++.
 - 👯 PRocuro colaborações para projetos de baixa escala porém a nível profissional para aprendizado.
