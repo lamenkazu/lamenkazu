@@ -1,4 +1,5 @@
-### Hey! Listen! 👋![3gHnT](https://user-images.githubusercontent.com/23318318/188463913-d07f8b4c-8fb2-4c7a-ab4b-d356cd13b6d8.jpg)
+### Hey! Listen! 👋
+![navi](https://user-images.githubusercontent.com/23318318/188464131-570a3295-5979-4c52-9e94-d8f92da07cbe.jpg)
 
 
 
