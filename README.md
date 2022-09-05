@@ -1,5 +1,5 @@
-### Hey! Listen! 👋
-![navi](https://user-images.githubusercontent.com/23318318/188464131-570a3295-5979-4c52-9e94-d8f92da07cbe.jpg)
+### Hey! Listen! 👋![navi2](https://user-images.githubusercontent.com/23318318/188464238-b9611f5d-f652-4be5-a716-a11526bfa4d2.png)
+
 
 
 
