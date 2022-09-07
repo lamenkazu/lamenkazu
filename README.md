@@ -3,7 +3,7 @@
  ### Hey! Listen! 👋
  
 
-**lamenkazu/lamenkazu** é um ✨ _prototype_ ✨de portifólio. Acesse a Página para mais informações sobre mim!
+**https://lamenkazu.github.io/lamenkazu/** é um ✨ _prototype_ ✨de portifólio. Acesse a Página para mais informações sobre mim!
 
 Mas aqui um aperitivo:
 - 🔭 Desenvolver boas práticas de programação a nível profissional
