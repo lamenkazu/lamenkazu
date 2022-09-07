@@ -1,4 +1,5 @@
 
+
  ![navi2 (7)](https://user-images.githubusercontent.com/23318318/188466050-39b0c261-3a26-43ca-8544-69ae1e144b7a.png)
  ### Hey! Listen! 👋
  
@@ -13,3 +14,6 @@ Mas aqui um aperitivo:
 - 📫 Contato: 333.erick@gmail.com
 -     https://www.linkedin.com/in/erick-etiene
 - ⚡ Também sou um estudante de Lógica e Linguagens em Filosofia na UFMG, aprimorando e aprofundando sempre meus conceitos de programação e desenvolvimento.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamenkazu&show_icons=true&theme=synthwave)                    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamenkazu&layout=compact)](https://github.com/lamenkazu/github-readme-stats)
