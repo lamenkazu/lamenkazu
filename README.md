@@ -1,7 +1,7 @@
 ![navi2 (7)](https://user-images.githubusercontent.com/23318318/188466050-39b0c261-3a26-43ca-8544-69ae1e144b7a.png)
  ### Hey! Listen! 👋
  
-**https://lamenkazu.github.io/lamenkazu/** é um ✨_protótipo_✨de portifólio. Acesse a Página para mais informações sobre mim!
+**https://lamenkazu.github.io/portifolio/** Esse é o link para o novo Portfolio atualizado, sendo produzido nesse momento.
 
 Mas aqui um aperitivo:
 
