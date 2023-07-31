@@ -1,10 +1,11 @@
  ![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648)
- ## Hey! Listen! 👋
+ # Hey! Listen! 👋
  
-**https://lamenkazu.github.io/portifolio/**
-Esse é o link para o novo Portfolio atualizado, onde você pode se encontrar melhor, porém fique a vontade pra averiguar meus repositórios.
+Esse é o link para o novo Portfolio atualizado, onde você pode se encontrar melhor, porém fique a vontade pra averiguar meus repositórios. **https://lamenkazu.github.io/portifolio/**
 
-Mas aqui um aperitivo:
+
+
+## Mas aqui um aperitivo:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamenkazu&layout=compact)](https://github.com/lamenkazu/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamenkazu&show_icons=true&theme=synthwave) 
