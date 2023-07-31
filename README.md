@@ -5,6 +5,7 @@
 Esse é o link para o novo Portfolio atualizado, onde você pode se encontrar melhor, porém fique a vontade pra averiguar meus repositórios.
 
 Mas aqui um aperitivo:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamenkazu&layout=compact)](https://github.com/lamenkazu/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamenkazu&show_icons=true&theme=synthwave) 
 - 🔭 Busco desenvolver boas práticas de programação a nível profissional.
