@@ -1,7 +1,7 @@
  ![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648)
  # Hey! Listen! 👋
  
-Esse é o link para o novo Portfolio atualizado, onde você pode se encontrar melhor, porém fique a vontade pra averiguar meus repositórios. **https://lamenkazu.github.io/portifolio/**
+**https://lamenkazu.github.io/portifolio/** Esse é o link para o novo Portfolio atualizado, onde você pode me conhecer melhor.
 
 
 
