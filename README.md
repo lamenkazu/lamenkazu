@@ -1,5 +1,7 @@
  ### Hey! Listen! 👋
 ![navi2 (7)](https://user-images.githubusercontent.com/23318318/188466050-39b0c261-3a26-43ca-8544-69ae1e144b7a.png)
+![navi zelda](https://github.com/lamenkazu/lamenkazu/assets/23318318/d5f04e4b-f2e1-41a2-b5a1-7757edc5fd2a)
+
  
 **https://lamenkazu.github.io/portifolio/** Esse é o link para o novo Portfolio atualizado, sendo produzido nesse momento.
 
