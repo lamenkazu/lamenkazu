@@ -1,6 +1,6 @@
- ### Hey! Listen! 👋
-![navi2 (7)](https://user-images.githubusercontent.com/23318318/188466050-39b0c261-3a26-43ca-8544-69ae1e144b7a.png)
-![navi zelda](https://github.com/lamenkazu/lamenkazu/assets/23318318/d5f04e4b-f2e1-41a2-b5a1-7757edc5fd2a)
+ ## Hey! Listen! 👋 ![NicePng_hylian-crest-png_7992494](https://github.com/lamenkazu/lamenkazu/assets/23318318/ae6e8ee4-9d15-4c1e-9e9e-0d2475e6b828)
+
+ 
 
  
 **https://lamenkazu.github.io/portifolio/** Esse é o link para o novo Portfolio atualizado, sendo produzido nesse momento.
