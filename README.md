@@ -1,4 +1,4 @@
- ## Hey! Listen! 👋 ![NicePng_hylian-crest-png_7992494](https://github.com/lamenkazu/lamenkazu/assets/23318318/ae6e8ee4-9d15-4c1e-9e9e-0d2475e6b828)
+ ## Hey! Listen! 👋 ![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648)
 
  
 
