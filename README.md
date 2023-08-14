@@ -1,5 +1,4 @@
-
- # Hey!![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648) Listen!
+# Hey!![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648) Listen!
  
 **[Esse é o link para o meu Portfolio,](https://lamenkazu.github.io/portifolio)** onde você pode conhecer detalhadamente sobre minhas competências e habilidades.
 
@@ -7,7 +6,7 @@
 
 ### Tecnologias:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&logoColor=b23)&nbsp;
-![iOS](https://img.shields.io/badge/-iPhone_Operation_System-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
+![iOS](https://img.shields.io/badge/-iPhone_Operating_System-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=b23)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-black?style=flat-square&logo=jetpackcompose&logoColor=b23)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=b23)&nbsp;
