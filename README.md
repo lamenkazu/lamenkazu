@@ -7,7 +7,7 @@
 
 ### Tecnologias:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&logoColor=b23)&nbsp;
-![iOS](https://img.shields.io/badge/-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
+![iOS](https://img.shields.io/badge/-iPhone_Operation_System-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=b23)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-black?style=flat-square&logo=jetpackcompose&logoColor=b23)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=b23)&nbsp;
