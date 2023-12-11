@@ -1,4 +1,6 @@
-# Hey!![NicePng_hylian-crest-png_7992494 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/0dc1ca95-4367-4b24-ab3d-762c4f519648) Listen!
+# ![257293723-0dc1ca95-4367-4b24-ab3d-762c4f519648 (1)](https://github.com/lamenkazu/lamenkazu/assets/23318318/31769aa5-409f-4e06-8bb7-f1385b39f20f) Hey!  Listen!
+
+Formado em duas das principais universidades federais de Minas Gerais, onde tive a oportunidade de me envolver em diversos projetos de desenvolvimento, abrangendo as áreas de Front-end, Back-end e Mobile, utilizando várias tecnologias.
  
 **[Esse é o link para o meu Portfolio,](https://lamenkazu.github.io/portifolio)** onde você pode conhecer detalhadamente sobre minhas competências e habilidades.
 
@@ -6,16 +8,18 @@
 
 ### Tecnologias:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&logoColor=b23)&nbsp;
-![iOS](https://img.shields.io/badge/-iPhone_Operating_System-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=b23)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=b23)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-black?style=flat-square&logo=jetpackcompose&logoColor=b23)&nbsp;
+
+![iOS](https://img.shields.io/badge/-iPhone_Operating_System-black?style=flat-square&logo=ios&logoColor=b23)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift&logoColor=b23)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=b23)&nbsp;
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=b23)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react&logoColor=b23)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=b23)&nbsp;
-
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift&logoColor=b23)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=b23)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=b23)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=b23)&nbsp;
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-black?style=flat-square&logo=c%2B%2B&logoColor=b23)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=b23)&nbsp;
